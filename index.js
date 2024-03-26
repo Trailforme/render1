@@ -1,4 +1,3 @@
-//new update check...
 const { spawn } = require("child_process");
 const { readFileSync } = require("fs-extra");
 const http = require("http");
